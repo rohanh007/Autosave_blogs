@@ -1,6 +1,6 @@
 # Autosave_blogs
 
-## Cient run command
+## Client run command
 
 $ cd client
 $ npm install (to install client-side dependencies)
