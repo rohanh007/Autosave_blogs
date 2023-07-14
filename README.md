@@ -12,4 +12,4 @@ $ npm start (to start the client)
 
 $ npm install (to install server-side dependencies)
 
-& npm server.js (to start the server)
+$ node server.js (to start the server)
